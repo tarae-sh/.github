@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarae-sh/tarae/main/docs/brand/mascot-meok.svg">
-    <img src="https://raw.githubusercontent.com/tarae-sh/tarae/main/docs/brand/mascot-hanji.svg" width="120" alt="tarae's mascot: a ball of thread painted in ink, a brush slung across its back, the cursor it just drew">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarae-sh/.github/main/profile/mascot-meok.svg">
+    <img src="https://raw.githubusercontent.com/tarae-sh/.github/main/profile/mascot-hanji.svg" width="120" alt="tarae's mascot: a ball of thread painted in ink, a brush slung across its back, the cursor it just drew">
   </picture>
 </p>
 
